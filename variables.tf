@@ -1,0 +1,13 @@
+variable "tenant" {}
+variable "name" {}
+variable "environment" {}
+variable "rg_name" {}
+variable "rg_location" {}
+variable "address_space" {}
+variable "single_az_nat" {}
+variable "pbl_sub_count" {}
+variable "pvt_sub_count" {}
+variable "aks_sub_count" {}
+variable "mysql_sub_count" {}
+variable "pgsql_sub_count" {}
+variable "mi_sub_count" {}
